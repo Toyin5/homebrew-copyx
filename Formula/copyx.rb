@@ -28,4 +28,3 @@ class Copyx < Formula
     assert_match "Usage:", shell_output("#{bin}/copyx --help")
   end
 end
-
